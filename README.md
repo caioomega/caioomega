@@ -21,7 +21,7 @@
 ## 🚀 Projetos
 
 ### 🔹 Travis Scott
-Sistema moderno com foco em frontend e experiência visual.
+Biografia com animações e layout de outro nível, buscando uma experiencia boa do usuario!
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-111827?style=flat&logo=typescript"/>
@@ -32,7 +32,7 @@ Sistema moderno com foco em frontend e experiência visual.
 ---
 
 ### 🔹 Getup Brasil
-Plataforma web com estrutura completa para aplicações modernas.
+LandingPage profissional de marketing digital, buscando melhorar a entrega de serviços da empresa, integração com whatsapp!
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-111827?style=flat&logo=javascript"/>
@@ -45,7 +45,7 @@ Plataforma web com estrutura completa para aplicações modernas.
 ---
 
 ### 🔹 Hotel Management System
-Sistema completo de gerenciamento de hotel.
+Sistema completo de gerenciamento de hotel, estacionamento, quartos, reservas e mais! Buscando uma facilidade maior a organização do hotel.
 
 <p>
   <img src="https://img.shields.io/badge/FullStack-111827?style=flat"/>
@@ -56,7 +56,7 @@ Sistema completo de gerenciamento de hotel.
 ---
 
 ### 🔹 Gestor de Pedidos
-Sistema desktop com interface gráfica usando Python.
+Gestor de pedidos em python com cotação, gerenciador de estoque, pedidos e clientes, buscando trazer facilidade ao gerenciar um pequeno negocio!
 
 <p>
   <img src="https://img.shields.io/badge/Python-111827?style=flat&logo=python"/>
