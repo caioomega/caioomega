@@ -44,16 +44,16 @@ Atualmente estudando ADS no SENAI, com foco em:
   <a href="https://github.com/caioomega">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=caioomega&repo=travis-scott&theme=tokyonight&hide_border=true"/>
   </a>
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/caioomega">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=caioomega&repo=Getup-BRASIL&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/caioomega">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=caioomega&repo=hotel-management-system&theme=tokyonight&hide_border=true"/>
   </a>
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/caioomega">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=caioomega&repo=gestordepedidos-PY&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
