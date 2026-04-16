@@ -1,79 +1,83 @@
 <h1 align="center">Caio Mega</h1>
 
 <p align="center">
-  Desenvolvedor Web HTML CSS & JS • ADS - SENAI • 17 anos
+  Desenvolvedor Full Stack • ADS - SENAI • 17 anos
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Disponível%20para%20projetos-0A66C2?style=flat&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Foco-SaaS%20%7C%20Web%20Apps-111827?style=flat"/>
+  <img src="https://img.shields.io/badge/Status-Disponível-111827?style=flat&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Foco-SaaS%20%7C%20Web%20Apps-0A66C2?style=flat"/>
 </p>
 
 ---
 
 ## 🧠 Sobre
 
-Sou desenvolvedor focado na criação de **sistemas modernos, escaláveis e com foco em resultado**.
+Desenvolvedor focado em criar **aplicações modernas, escaláveis e com padrão profissional**.
 
-Atualmente estudo **Análise e Desenvolvimento de Sistemas no SENAI**, desenvolvendo projetos voltados para:
-- Aplicações SaaS
-- Sistemas web completos
+Atualmente estudando ADS no SENAI, com foco em:
+- SaaS
+- Sistemas Web
 - APIs e automações
 
-Busco sempre construir soluções com **performance, usabilidade e design profissional**.
-
 ---
 
-## ⚙️ Stack Tecnológica
+## ⚙️ Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,dart,python,php,mysql,go&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,dart,python,php,mysql,go&theme=dark" />
 </p>
 
 ---
 
-## 📊 Performance & Métricas
+## 📊 Atividade
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=caioomega&show_icons=true&theme=default&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioomega&layout=compact&theme=default&hide_border=true"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caioomega&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🚀 Projetos
+## 🚀 Projetos em Destaque
 
-| Projeto | Descrição | Stack |
-|--------|----------|------|
-| Em desenvolvimento | Plataforma SaaS moderna | Full Stack |
-| Em desenvolvimento | Sistema web completo | JS / PHP / MySQL |
+<p align="center">
+  <a href="https://github.com/caioomega">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=caioomega&repo=travis-scott&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/SEU_USUARIO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=caioomega&repo=Getup-BRASIL&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SEU_USUARIO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=caioomega&repo=hotel-management-system&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/SEU_USUARIO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=caioomega&repo=gestordepedidos-PY&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
 
 ---
 
 ## 🌐 Contato
 
 <p>
-  <a href="https://www.linkedin.com/in/caio-hil%C3%A1rio-mega-51a047349/">
+  <a href="https://linkedin.com/in/SEU_USER">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="https://instagram.com/c41oxz">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-111827?style=flat&logo=instagram&logoColor=white"/>
   </a>
 
   <a href="https://discord.com/users/SEU_ID">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Discord-111827?style=flat&logo=discord&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 📌 Direção
-
-Atualmente focado em evoluir como desenvolvedor e construir produtos que possam ser utilizados em escala.
-
----
-
 <p align="center">
-  <sub>Construindo soluções digitais com foco em qualidade e impacto.</sub>
+  <sub>Construindo sistemas com padrão profissional.</sub>
 </p>
