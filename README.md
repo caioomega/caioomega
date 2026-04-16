@@ -1,12 +1,27 @@
 <h1 align="center">Caio Mega</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&duration=3000&color=0A66C2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;ADS+-+SENAI;Construindo+SaaS+e+Sistemas" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=2500&pause=1000&color=0A66C2&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;ADS+-+SENAI;Construindo+SaaS+Modernos;Focado+em+Performance+e+Escala" />
 </p>
 
 <p align="center">
-  Desenvolvedor focado em sistemas modernos e escaláveis.
+  <img src="https://komarev.com/ghpvc/?username=caioomega&label=Visualizações&color=0A66C2&style=flat" />
 </p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=100&section=header"/>
+
+---
+
+## 🧠 Sobre
+
+Desenvolvedor focado em criar **sistemas modernos, escaláveis e com padrão profissional**.
+
+- SaaS
+- Web Apps
+- APIs
+- Automação
 
 ---
 
@@ -18,59 +33,41 @@
 
 ---
 
+## 📊 Atividade
+
+<p align="center">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=caioomega&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=caioomega&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
 ## 🚀 Projetos
 
 ### 🔹 Travis Scott
-Biografia com animações e layout de outro nível, buscando uma experiencia boa do usuario!
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-111827?style=flat&logo=typescript"/>
-</p>
-
-🔗 https://github.com/caioomega/travis-scott
+🔗 https://github.com/caioomega/travis-scott  
+<img src="https://img.shields.io/badge/TypeScript-0A66C2?style=flat&logo=typescript"/>
 
 ---
 
 ### 🔹 Getup Brasil
-LandingPage profissional de marketing digital, buscando melhorar a entrega de serviços da empresa, integração com whatsapp!
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=flat&logo=javascript"/>
-  <img src="https://img.shields.io/badge/PHP-111827?style=flat&logo=php"/>
-  <img src="https://img.shields.io/badge/MySQL-111827?style=flat&logo=mysql"/>
-</p>
-
-🔗 https://github.com/caioomega/Getup-BRASIL
+🔗 https://github.com/caioomega/Getup-BRASIL  
+<img src="https://img.shields.io/badge/Stack-JS%20%7C%20PHP%20%7C%20MySQL-111827?style=flat"/>
 
 ---
 
 ### 🔹 Hotel Management System
-Sistema completo de gerenciamento de hotel, estacionamento, quartos, reservas e mais! Buscando uma facilidade maior a organização do hotel.
-
-<p>
-  <img src="https://img.shields.io/badge/FullStack-111827?style=flat"/>
-</p>
-
-🔗 https://github.com/caioomega/hotel-management-system
+🔗 https://github.com/caioomega/hotel-management-system  
+<img src="https://img.shields.io/badge/System-FullStack-111827?style=flat"/>
 
 ---
 
 ### 🔹 Gestor de Pedidos
-Gestor de pedidos em python com cotação, gerenciador de estoque, pedidos e clientes, buscando trazer facilidade ao gerenciar um pequeno negocio!
-
-<p>
-  <img src="https://img.shields.io/badge/Python-111827?style=flat&logo=python"/>
-</p>
-
-🔗 https://github.com/caioomega/gestordepedidos-PY
-
----
-
-## 📊 Atividade
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caioomega&theme=tokyonight&hide_border=true"/>
-</p>
+🔗 https://github.com/caioomega/gestordepedidos-PY  
+<img src="https://img.shields.io/badge/Python-0A66C2?style=flat&logo=python"/>
 
 ---
 
@@ -98,4 +95,14 @@ Gestor de pedidos em python com cotação, gerenciador de estoque, pedidos e cli
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=100&section=footer"/>
+
+---
+
+<p align="center">
+  <sub>Building scalable systems.</sub>
 </p>
