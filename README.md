@@ -1,29 +1,12 @@
 <h1 align="center">Caio Mega</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&duration=3000&color=0A66C2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;ADS+-+SENAI;Construindo+SaaS+e+Sistemas;Foco+em+Performance+e+Escala" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&duration=3000&color=0A66C2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;ADS+-+SENAI;Construindo+SaaS+e+Sistemas" />
 </p>
 
 <p align="center">
-  Desenvolvedor focado em sistemas modernos, escaláveis e com padrão profissional.
+  Desenvolvedor focado em sistemas modernos e escaláveis.
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Ativo-111827?style=flat&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Foco-SaaS%20%7C%20Web-0A66C2?style=flat"/>
-  <img src="https://img.shields.io/badge/Idade-17-111827?style=flat"/>
-</p>
-
----
-
-## 🧠 Sobre
-
-Atualmente estudando **Análise e Desenvolvimento de Sistemas (SENAI)**, com foco em:
-
-- Desenvolvimento de aplicações SaaS
-- Sistemas Web completos
-- APIs e automações
-- Performance e boas práticas
 
 ---
 
@@ -35,38 +18,58 @@ Atualmente estudando **Análise e Desenvolvimento de Sistemas (SENAI)**, com foc
 
 ---
 
-## 📊 Atividade
+## 🚀 Projetos
 
-<p align="center">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=caioomega&theme=tokyonight&hide_border=true"/>
+### 🔹 Travis Scott
+Sistema moderno com foco em frontend e experiência visual.
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=flat&logo=typescript"/>
 </p>
+
+🔗 https://github.com/caioomega/travis-scott
 
 ---
 
-## 🚀 Projetos em Destaque
+### 🔹 Getup Brasil
+Plataforma web com estrutura completa para aplicações modernas.
 
-<p align="center">
-
-<a href="https://github.com/caioomega/travis-scott">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=caioomega&repo=travis-scott&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/caioomega/Getup-BRASIL">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=caioomega&repo=Getup-BRASIL&theme=tokyonight&hide_border=true"/>
-</a>
-
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=flat&logo=javascript"/>
+  <img src="https://img.shields.io/badge/PHP-111827?style=flat&logo=php"/>
+  <img src="https://img.shields.io/badge/MySQL-111827?style=flat&logo=mysql"/>
 </p>
 
+🔗 https://github.com/caioomega/Getup-BRASIL
+
+---
+
+### 🔹 Hotel Management System
+Sistema completo de gerenciamento de hotel.
+
+<p>
+  <img src="https://img.shields.io/badge/FullStack-111827?style=flat"/>
+</p>
+
+🔗 https://github.com/caioomega/hotel-management-system
+
+---
+
+### 🔹 Gestor de Pedidos
+Sistema desktop com interface gráfica usando Python.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-111827?style=flat&logo=python"/>
+</p>
+
+🔗 https://github.com/caioomega/gestordepedidos-PY
+
+---
+
+## 📊 Atividade
+
 <p align="center">
-
-<a href="https://github.com/caioomega/hotel-management-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=caioomega&repo=hotel-management-system&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/caioomega/gestordepedidos-PY">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=caioomega&repo=gestordepedidos-PY&theme=tokyonight&hide_border=true"/>
-</a>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caioomega&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -95,10 +98,4 @@ Atualmente estudando **Análise e Desenvolvimento de Sistemas (SENAI)**, com foc
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-<p align="center">
-  <sub>Building scalable digital solutions.</sub>
 </p>
