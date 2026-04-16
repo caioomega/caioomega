@@ -35,8 +35,8 @@ Busco sempre construir soluções com **performance, usabilidade e design profis
 ## 📊 Performance & Métricas
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=default&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=caioomega&show_icons=true&theme=default&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioomega&layout=compact&theme=default&hide_border=true"/>
 </p>
 
 ---
