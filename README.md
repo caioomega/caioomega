@@ -28,8 +28,8 @@
 ## 📊 Stats
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=caioomega&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioomega&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -45,13 +45,13 @@
 ## 🌐 Connect with me
 
 <p align="center">
-  <a href="https://instagram.com/SEU_USER">
+  <a href="https://instagram.com/cmega.dev">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://linkedin.com/in/SEU_USER">
+  <a href="https://linkedin.com/in/Caio Mega">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://wa.me/SEUNUMERO">
+  <a href="https://wa.me/19997137010">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="48"/>
   </a>
 </p>
